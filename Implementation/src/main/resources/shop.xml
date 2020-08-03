@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<electronic_shop>
+    <smartphones_and_gadgets>
+        <product category="smartphones">
+            <vendor>TOPZASVOIDENGI</vendor>
+            <model>MI-124</model>
+            <manufacturing_date>13-07-2020</manufacturing_date>
+            <colour>Pink</colour>
+            <price stock_balance="ended">13999</price>
+        </product>
+        <product category="powerbanks">
+            <vendor>Bura</vendor>
+            <model>BR-567</model>
+            <manufacturing_date>01-02-2019</manufacturing_date>
+            <colour>Red</colour>
+            <price stock_balance="333">390</price>
+        </product>
+    </smartphones_and_gadgets>
+    <home_electronics>
+        <product category="blenders">
+            <vendor>Sinba</vendor>
+            <model>SH-119</model>
+            <manufacturing_date>01-01-2019</manufacturing_date>
+            <colour>Silver</colour>
+            <price stock_balance="8">999</price>
+        </product>
+        <product category="hoovers">
+            <vendor>Starwing</vendor>
+            <model>SW-789</model>
+            <manufacturing_date>22-12-2018</manufacturing_date>
+            <colour>Blue</colour>
+            <price stock_balance="3">2750</price>
+        </product>
+    </home_electronics>
+    <computers>
+        <product category="motherboards">
+            <vendor>AUSS</vendor>
+            <model>BA-121</model>
+            <manufacturing_date>28-12-2019</manufacturing_date>
+            <colour>Black</colour>
+            <price stock_balance="3">3960</price>
+        </product>
+        <product category="cpu">
+            <vendor>AD</vendor>
+            <model>AD-666</model>
+            <manufacturing_date>05-07-2020</manufacturing_date>
+            <colour>Silver</colour>
+            <price stock_balance="1">6666</price>
+        </product>
+        <product category="hdd">
+            <vendor>TOSHKA</vendor>
+            <model>TT-353</model>
+            <manufacturing_date>03-03-2019</manufacturing_date>
+            <colour>Silver</colour>
+            <price stock_balance="20">4700</price>
+        </product>
+    </computers>
+</electronic_shop>

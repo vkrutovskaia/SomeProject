@@ -1,0 +1,4 @@
+# Project exclude paths
+/API/target/
+/Implementation/target/
+/target/
